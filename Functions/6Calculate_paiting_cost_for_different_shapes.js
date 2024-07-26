@@ -37,4 +37,4 @@ const baseTriangle = 6;
 const heightTriangle = 8;
 const costTriangle = calculatePaintingCost(baseTriangle, heightTriangle, areaOfTriangle);
 console.log('Cost to paint the triangle:', costTriangle);
-//explain and understand how to work 
+//explain and understand how to work 1
